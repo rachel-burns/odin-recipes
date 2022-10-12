@@ -1,0 +1,32 @@
+.list {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px
+}
+
+#curry {
+    font-weight: bold
+}
+
+.spice {
+    color: green;
+    font-style:italic
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(0, 217, 255);
+}
+
+ol li {
+    font-family:'Courier New', Courier, monospace
+}
+
+h1 {
+    background-color: rgb(255, 0, 234);
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
